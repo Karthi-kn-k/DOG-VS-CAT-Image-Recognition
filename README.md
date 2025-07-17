@@ -13,7 +13,6 @@ DOGS-VS-CATS-CLASSIFIER/
 │   ├── Cat/
 │   └── Dog/
 ├── image-recognization.py   # Main Python script (model + training + prediction)
-├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 ```
 
